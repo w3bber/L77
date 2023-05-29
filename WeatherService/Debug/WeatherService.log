@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿  JsonService.cpp
+=======
+﻿  XmlService.cpp
+>>>>>>> feature-xml
 =======
 ﻿  XmlService.cpp
 >>>>>>> feature-xml

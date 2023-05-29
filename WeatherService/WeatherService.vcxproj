@@ -140,7 +140,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <ClCompile Include="JsonService.cpp" />
+=======
+    <ClCompile Include="pugixml-1.13\src\pugixml.cpp" />
+>>>>>>> feature-xml
 =======
     <ClCompile Include="pugixml-1.13\src\pugixml.cpp" />
 >>>>>>> feature-xml
@@ -150,7 +154,11 @@
   </ItemGroup>
   <ItemGroup>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <ClInclude Include="JsonService.h" />
+=======
+    <ClInclude Include="pugixml-1.13\src\pugixml.hpp" />
+>>>>>>> feature-xml
 =======
     <ClInclude Include="pugixml-1.13\src\pugixml.hpp" />
 >>>>>>> feature-xml

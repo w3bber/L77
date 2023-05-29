@@ -1,6 +1,10 @@
 <current>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <city id="548408" name="КЉиров">
+=======
+<city id="548408" name="Киров">
+>>>>>>> feature-xml
 =======
 <city id="548408" name="Киров">
 >>>>>>> feature-xml

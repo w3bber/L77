@@ -22,12 +22,18 @@
       <Filter>Исходные файлы</Filter>
     </ClCompile>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <ClCompile Include="JsonService.cpp">
 =======
+=======
+>>>>>>> feature-xml
     <ClCompile Include="XmlService.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
     <ClCompile Include="pugixml-1.13\src\pugixml.cpp">
+<<<<<<< HEAD
+>>>>>>> feature-xml
+=======
 >>>>>>> feature-xml
       <Filter>Исходные файлы</Filter>
     </ClCompile>
@@ -40,12 +46,18 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <ClInclude Include="JsonService.h">
 =======
+=======
+>>>>>>> feature-xml
     <ClInclude Include="XmlService.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="pugixml-1.13\src\pugixml.hpp">
+<<<<<<< HEAD
+>>>>>>> feature-xml
+=======
 >>>>>>> feature-xml
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
